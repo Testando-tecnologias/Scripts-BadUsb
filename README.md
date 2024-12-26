@@ -1,2 +1,2 @@
-Coleção de scripts para ataques Bad usb
-cuidado alguns destes scripts pode ser perigosos
+Coleção de scripts para ataques Bad usb.
+Cuidado alguns destes scripts pode ser perigosos
