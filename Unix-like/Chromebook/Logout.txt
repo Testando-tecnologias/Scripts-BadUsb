@@ -1,3 +1,0 @@
-REM Author: sillyangel
-CTRL SHIFT Q
-CTRL SHIFT Q
