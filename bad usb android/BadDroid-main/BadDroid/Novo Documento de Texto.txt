@@ -1,0 +1,13 @@
+DELAY 1000
+GUI r
+DELAY 500
+STRING ms-messaging:
+ENTER
+DELAY 2000
+STRING NomeDoContato
+DELAY 500
+ENTER
+DELAY 1000
+STRING Esta é uma mensagem de teste enviada por Duckyscript.
+DELAY 500
+ENTER

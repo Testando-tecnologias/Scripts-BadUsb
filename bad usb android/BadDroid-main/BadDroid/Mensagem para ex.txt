@@ -1,0 +1,26 @@
+REM texts someone in there messges 
+GUI s
+DELAY 700
+TAB
+DELAY 500
+ENTER
+DELAY 900
+STRING ex
+DELAY 500
+ENTER
+DELAY 800
+TAB
+ENTER
+DELAY 1000
+ENTER
+DELAY 500
+STRING Ooi to com saudade de vc
+DELAY 800
+ENTER
+DELAY 600
+STRING Me liga agora
+DELAY 350
+TAB
+DELAY 300
+ENTER
+REM texts someone in there messges 
