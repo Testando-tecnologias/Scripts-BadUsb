@@ -1,0 +1,18 @@
+REM Voz do Windows dizendo mensagem personalizada
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell
+ENTER
+DELAY 800
+STRING Add-Type -AssemblyName System.Speech;$speak=New-Object System.Speech.Synthesis.SpeechSynthesizer;$speak.Speak("Paraaaaa, Tira que eu vou cagar, Tira que eu vou cagar, tiraaaaaa.")
+ENTER
+DELAY 5000
+STRING exit
+ENTER
+REM Abrir a página em tela cheia no Google Chrome
+DELAY 500
+GUI r
+DELAY 500
+STRINGLN chrome --kiosk https://pranx.com/blue-death/ --chrome-kiosk-type=fullscreen
+ENTER
